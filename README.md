@@ -2,6 +2,8 @@ Araç Kiralama Otomasyonu
 
 app.configden connstr değerini kısmına kendi sunucu adresinizi giriniz.
 
+pngler dosyasını debug içine atınız.
+
 Giriş için tam yetkili hesap kullanıcı adı: admin1 şifre: 123456 çalışan olarak giriş yapmak için Kullanıcı adı: admin2 şifre: 123456
 
 Şifremi unuttum kısmına bakarken çalışan işlemlerinden bir çalışanın mail adresini kendi mail adresinizle değişerek bakınız.
