@@ -1,0 +1,2 @@
+Veritabanının yedek alındığı sürüm 2022 versiyonudur.
+Veritabanını kurarken veritabanı adını değiştirmeyiniz.
